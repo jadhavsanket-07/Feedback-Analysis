@@ -1,8 +1,8 @@
-# Feedback Analysis
+# Sentiment Analysis
 
 ## Overview
 
-The **Feedback Analysis** project aims to analyze customer reviews for a restaurant using Natural Language Processing (NLP) techniques. By employing machine learning algorithms, this project classifies reviews as positive or negative based on the textual content. The analysis includes data cleaning, feature extraction, model training, and evaluation, providing insights into customer sentiment.
+The **Sentiment Analysis** project aims to analyze customer reviews for a restaurant using Natural Language Processing (NLP) techniques. By employing machine learning algorithms, this project classifies reviews as positive or negative based on the textual content. The analysis includes data cleaning, feature extraction, model training, and evaluation, providing insights into customer sentiment.
 
 ## Purpose
 
